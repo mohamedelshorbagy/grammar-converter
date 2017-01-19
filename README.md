@@ -12,7 +12,7 @@ http://codepen.io/shorbagy/pen/yVdOyr
 
 
 
-
+I will make a project soon for a desktop application for this project which will be a cross-platform which will work in windows , Linux and Mac also .
 
 
 
